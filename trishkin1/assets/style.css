@@ -355,3 +355,22 @@ nav ul li a{
 .flex-logo {
   margin-top: 40px;
 }
+
+
+.grad-search {
+  width: 1000px;
+  margin: 0 auto;
+  height: 80px;
+  border-radius: 5px;
+  background: rgb(25,18,143);
+  background: linear-gradient(90deg, rgba(25,18,143,1) 0%, rgba(192,8,203,1) 53%, rgba(255,0,114,1) 100%); 
+}
+
+
+.text-white-grad {
+  color: white;
+  width: 400px;
+  padding-top: 10px;
+  padding-left: 50px;
+  font-size: 25px;
+}
